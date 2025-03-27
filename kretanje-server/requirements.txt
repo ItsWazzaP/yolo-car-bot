@@ -1,0 +1,7 @@
+aioconsole==0.8.1
+colorzero==2.0
+gpiozero==2.0.1
+lgpio==0.2.2.0
+pigpio==1.78
+RPi.GPIO==0.7.1
+websockets==10.4

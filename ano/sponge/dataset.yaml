@@ -1,0 +1,6 @@
+names:
+  0: person
+  80: sundjer
+nc: 2
+train: images/train
+val: images/train

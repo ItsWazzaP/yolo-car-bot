@@ -1,0 +1,17 @@
+aioconsole==0.8.1
+aiohappyeyeballs==2.6.1
+aiohttp==3.11.14
+aiosignal==1.3.2
+attrs==25.3.0
+colorzero==2.0
+frozenlist==1.5.0
+gpiozero==2.0.1
+idna==3.10
+lgpio==0.2.2.0
+multidict==6.2.0
+picamera==1.13
+pigpio==1.78
+propcache==0.3.1
+RPi.GPIO==0.7.1
+websockets==10.4
+yarl==1.18.3
